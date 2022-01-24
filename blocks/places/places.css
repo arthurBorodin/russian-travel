@@ -3,6 +3,7 @@
   margin: 0;
   padding-right: 148px;
   padding-top: 92px;
+  padding-bottom: 92px;
   max-width: 984px;
   min-height: 3392px;
 }
@@ -25,7 +26,7 @@
   .places {
     max-width: 320px;
     padding-top: 64px;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
