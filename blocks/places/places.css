@@ -1,11 +1,11 @@
 .places {
   padding-left: 148px;
   margin: 0;
+  margin-bottom: 10px;
   padding-right: 148px;
   padding-top: 92px;
-  padding-bottom: 92px;
+
   max-width: 984px;
-  min-height: 3392px;
 }
 @media screen and (max-width: 1024px) {
   .places {

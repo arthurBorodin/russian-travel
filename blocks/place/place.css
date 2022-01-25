@@ -3,7 +3,8 @@
   width: 100%;
   grid-template-columns: repeat(2, auto);
   column-gap: 40px;
-  row-gap: 48px;padding-bottom: 80px;
+  row-gap: 48px;
+  padding-bottom: 80px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -17,14 +18,14 @@
   .place {
     display: grid;
     column-gap: 28px;
-    padding-bottom: 73px;
+    /* padding-bottom: 73px; */
   }
 }
 
 @media screen and (max-width: 320px) {
   .place {
-    display: contents;
-
+    grid-template-columns: 1fr;
+    gap: 32px;
     padding-bottom: 50px;
   }
 }
