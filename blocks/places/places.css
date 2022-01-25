@@ -4,7 +4,6 @@
   margin-bottom: 10px;
   padding-right: 148px;
   padding-top: 92px;
-
   max-width: 984px;
 }
 @media screen and (max-width: 1024px) {
@@ -28,5 +27,6 @@
     padding-top: 64px;
     padding-left: 0;
     padding-right: 0;
+    margin-bottom: 16px;
   }
 }

@@ -1,4 +1,4 @@
-.place__website__link {
+.place__link {
   color: #ffffff;
   font-style: normal;
   font-weight: normal;
@@ -6,12 +6,12 @@
   line-height: 22px;
   text-decoration-line: underline;
 }
-.place__website__link:hover {
+.place__:hover {
   transition: 1s ease-out;
   opacity: 0.7;
 }
 @media screen and (max-width: 320px) {
-  .place__website__link {
+  .place__link {
     padding-bottom: 32px;
     padding-left: 16px;
     padding-right: 16px;

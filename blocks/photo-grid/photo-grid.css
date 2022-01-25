@@ -22,7 +22,6 @@
     grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
     padding-left: 24px;
     padding-right: 24px;
-    gap: 14px;
     padding-top: 88px;
   }
 }
