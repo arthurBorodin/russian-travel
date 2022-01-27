@@ -1,4 +1,8 @@
 .header__lang-links {
-  min-height: 28px;
+  display: flex;
+  gap: 18px;
+  align-items: baseline;
   align-self: flex-end;
+  margin: 0;
+  padding: 0;
 }

@@ -6,9 +6,7 @@
   text-align: center;
   font-style: normal;
   font-weight: normal;
-  margin: 0;
-  padding-left: 172px;
-  padding-right: 172px;
+  margin: 0 auto;
   padding-bottom: 64px;
 }
 @media screen and (max-width: 1024px) {
@@ -24,7 +22,5 @@
     padding-bottom: 40px;
     font-size: 16px;
     line-height: 20px;
-    padding-left: 18px;
-    padding-right: 18px;
   }
 }
