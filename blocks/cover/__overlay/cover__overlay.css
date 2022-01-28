@@ -31,6 +31,12 @@
   background: #2a2c2f;
   opacity: 0.8;
 }
+@media screen and (max-width: 1024px) {
+  .cover__overlay {
+    max-width: 1024px;
+    min-height: 640px;
+  }
+}
 @media screen and (max-width: 768px) {
   .cover__overlay {
     max-width: 768px;
