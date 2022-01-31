@@ -2,15 +2,15 @@
   /* max-width: 984px; */
   display: flex;
   flex-direction: column;
-  padding-left: 148px;
-  padding-right: 148px;
-  margin: 0;
+  /* padding-left: 148px;
+  padding-right: 148px; */
+  margin: 0 auto;
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
   .lead {
-    /* max-width: 928px; */
+     max-width: 928px;
     padding-left: 48px;
     padding-right: 48px;
   }
@@ -18,7 +18,7 @@
 
 @media screen and (max-width: 768px) {
   .lead {
-    /* max-width: 768px; */
+    max-width: 768px;
     padding-left: 0;
     padding-right: 0;
   }
@@ -26,6 +26,6 @@
 
 @media screen and (max-width: 320px) {
   .lead {
-    /* max-width: 320px; */
+     max-width: 320px;
   }
-}
+} */
