@@ -19,5 +19,5 @@
 
 Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
- Мой проект можно посмотреть на Git Pages  по ссылки:https://arthurborodin.github.io/russian-travel-main/
+ Мой проект можно посмотреть на Git Pages  по ссылки: https://arthurborodin.github.io/russian-travel-main/
 Удачи!
