@@ -1,0 +1,23 @@
+.intro__ul {
+  padding-left: 0;
+  padding-top: 0;
+  margin: 0;
+  max-width: 690px;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  font-style: normal;
+  list-style-type: none;
+}
+
+@media screen and (max-width: 768px) {
+  .intro__ul {
+    max-width: 720px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro__ul {
+    max-width: 288px;
+  }
+}

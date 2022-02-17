@@ -1,23 +1,26 @@
 .place__image {
   max-width: 460px;
-  width: 100%;
-  opacity: 0.8;
+  /* padding: 0;
+  margin: 0; */
+  /* width: 100%; */
 }
-.place__image:hover {
-  opacity: 0.3;
-}
+
+
+
 @media screen and (max-width: 1024px) {
   .place__image {
     max-width: 440px;
   }
 }
+
 @media screen and (max-width: 768px) {
   .place__image {
     max-width: 340px;
   }
 }
-@media screen and (max-width: 320px) {
+
+@media screen and (max-width: 616px) {
   .place__image {
-    max-width: 320px;
+    width: 100%;
   }
 }
