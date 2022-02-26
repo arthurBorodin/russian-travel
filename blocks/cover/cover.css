@@ -3,14 +3,12 @@
   min-height: 740px;
   margin: 0 auto;
   margin-top: 92px;
-
 }
 
 @media screen and (max-width: 1024px) {
   .cover {
     max-width: 100%;
     min-height: 640px;
-
   }
 }
 

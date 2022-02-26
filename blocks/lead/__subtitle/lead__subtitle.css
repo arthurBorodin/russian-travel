@@ -6,13 +6,11 @@
   text-align: center;
   align-content: center;
   margin: 0 auto 64px;
-  /* padding-bottom: 0; */
-  /* border: 1px solid red; */
 }
 
 @media screen and (max-width: 1024px) {
   .lead__subtitle {
-    margin: 32px 144px 56px;
+    margin: 32px 0 56px;
   }
 }
 
@@ -22,7 +20,6 @@
     line-height: 25px;
   }
 }
-
 
 @media screen and (max-width: 320px) {
   .lead__subtitle {

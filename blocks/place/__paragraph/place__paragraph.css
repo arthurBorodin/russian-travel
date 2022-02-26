@@ -1,12 +1,10 @@
 .place__paragraph {
   padding-top: 0;
-  /* padding-bottom: 25px; */
   margin: 0 auto;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
   line-height: 163%;
-
 }
 
 .place__paragraph:not(:last-child) {

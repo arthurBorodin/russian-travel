@@ -5,7 +5,6 @@
   grid-template-columns: 460px auto;
   gap: 40px;
   row-gap: 48px;
-  /* border: 1px solid red; */
 }
 
 .place:last-of-type {
@@ -20,9 +19,14 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   .place {
     grid-template-columns: 340px auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place {
     gap: 28px;
     row-gap: 48px;
     padding-bottom: 73px;
@@ -32,7 +36,6 @@
 @media screen and (max-width: 616px) {
   .place {
     grid-template-columns: 1fr;
-    /* margin: auto; */
   }
 }
 
